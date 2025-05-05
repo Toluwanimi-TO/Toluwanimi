@@ -1,4 +1,4 @@
-# Welcome to my portfolio — where data meets clarity. 
+ Welcome to my portfolio — where data meets clarity. 
 
 Hi, I’m Odusanya Toluwanimi Tumininu — a data analyst skilled in turning raw data into clear, actionable insights. I work with tools like Python, SQL, Excel, and Power BI to build dashboards, write reports, and solve business problems with data.
 
